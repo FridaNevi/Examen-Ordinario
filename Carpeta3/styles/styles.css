@@ -1,0 +1,16 @@
+body {
+    background-color: black; /* Fondo Negro */
+    margin: 0; /* Sin márgenes */
+    display: flex; /* Usar flexbox para centrar contenido */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    flex-direction: column; /* Usamos columna*/
+}
+
+h1 {
+    color: white; /* Letras blancas */
+    font-size: 2.5rem; /* Tamaño del texto */
+    text-align: center; /* Centrar texto */
+    margin: 0; /* Sin márgenes */
+    margin-bottom: 25px; /*Espaciamos el boton*/
+}

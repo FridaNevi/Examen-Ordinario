@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffe4e1;
+}
+
+nav {
+    background-color: #ffb6c1; 
+    padding: 10px;
+}
+
+.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    background-color: #fa60bf;
+    border-radius: 5px;
+}
+
+.menu a:hover {
+    background-color: #ff69b4 ;
+}
+
+main {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    background-color: #fff0f5;
+    border: 1px solid  #ffccd5;
+}
+
+h1 {
+    font-size: 24px;
+    color: #d63384;
+}
+
+h2 {
+    font-size: 20px;
+    color: #c71585;
+}
+
+h3 {
+    font-size: 18px;
+    color: #6a0572;
+}
+
+p {
+    font-size: 16px;
+    color: #8b008b;
+}
+#parrafo0{
+  
+    color:white; /*letras blancas*/ }
+
+#parrafo1{
+    
+    color:black; /*letras negras*/ }
+
+#parrafo2{
+    
+    color:red; /* letras rojas*/}
+
+#parrafo3{
+    
+    color:yellow; /* letras amarillas*/}
+#parrafo4{
+    
+    color: green; /*letras verdes*/
+}
+#parrafo5{
+   
+    color:orange ; /*letras naranjas*/
+}
